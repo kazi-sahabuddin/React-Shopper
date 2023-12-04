@@ -1,8 +1,28 @@
-# React + Vite
+Build a responsive e-commerce website using React JS. The website includes a home page displaying trending products, offer banners, and a newsletter subscription form. Create category pages for men, women, and kids, as well as single product pages with image galleries, prices, descriptions, and related products. Implement a shopping cart page to display added products.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Key Features:
 
-Currently, two official plugins are available:
+Homepage:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Trending products
+Offer banners
+Newsletter subscription form
+Category Pages:
+
+Men's, Women's, Kids' categories
+Single Product Page:
+
+Image gallery
+Price, description
+Related products list
+
+Shopping Cart Page:
+
+Display added products
+
+Technologies:
+
+React JS
+React Router
+CSS-in-JS 
+Context API for state management
